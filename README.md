@@ -7,3 +7,4 @@ y'all can make your own on their repo, download the mini-yags and replace the st
 
 ## preview
 this is what my startpage looks like:
+![alt text](https://github.com/oaroki-git/startpage-extension/blob/main/startpage.png)
