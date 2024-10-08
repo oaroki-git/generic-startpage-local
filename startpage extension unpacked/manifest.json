@@ -1,10 +1,10 @@
 {
   "name": "startpage override because chrome wants us to be so safe :)))",
   "description": "Overrides the new tab page with my yet-another-generic-startpage mini-yags.",
-  "version": "0.1",
+  "version": "7.27",
   "incognito": "split",
   "chrome_url_overrides": {
     "newtab": "startpage/index.html"
   },
-  "manifest_version": 2
+  "manifest_version": 3
 }
