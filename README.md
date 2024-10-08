@@ -14,4 +14,4 @@ this is what my startpage looks like:
 2. open chrome://extensions
 3. enable developer mode
 4. click "load unpacked"
-5. choose the startpage-unpacked folder
+5. choose the startpage-extension-unpacked folder
