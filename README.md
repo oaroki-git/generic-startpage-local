@@ -12,10 +12,10 @@ here is what it looks like:
 ![alt text](https://github.com/oaroki-git/startpage-extension/blob/main/startpage.png)
 
 ## install
-1. clone the repo with git: ```git clone https://github.com/oaroki-git/generic-startpage-local.git```
+1. clone the repo with git: ```git clone https://github.com/oaroki-git/generic-startpage-local.git``` or download the .zip from [releases](https://github.com/oaroki-git/generic-startpage-local/releases/) and unzip that
 3. open chrome://extensions (in a chromium browser ofc)
 4. enable developer mode
-5. click "load unpacked" and choose the startpage-extension-unpacked folder or drag and drop it in
+5. click "load unpacked" and find and choose the startpage-extension-unpacked folder or drag and drop it in
 
 ## for other stuff
 the most important part of this is just the manifest.json.
