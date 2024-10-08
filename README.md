@@ -2,7 +2,7 @@
 because chrome doesn't like new tabs redirecting to local pages, I made a manifest.json to turn it into an extension stored it in that instead
 lightweight and eliminates the need for any new tab redirect extension
 
-focus page is not here thought, gotta figure out how to do that eventually (probably never because im lazy as shit)
+focus page instead of URL bar functionality is not here though, gotta figure out how to do that eventually (probably never because im lazy as shit)
 
 # credit
 thanks to [prettycoffee](https://github.com/PrettyCoffee/yet-another-generic-startpage) for creating the startpage
