@@ -8,7 +8,7 @@ this is what my startpage looks like:
 ![alt text](https://github.com/oaroki-git/startpage-extension/blob/main/startpage.png)
 
 ## install
-1. clone the repo
+1. clone the repo with the green button that says "<> code"
 2. open chrome://extensions
 3. enable developer mode
 4. click "load unpacked"
