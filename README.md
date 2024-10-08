@@ -8,3 +8,10 @@ y'all can make your own on their repo, download the mini-yags (instructions are 
 ## preview
 this is what my startpage looks like:
 ![alt text](https://github.com/oaroki-git/startpage-extension/blob/main/startpage.png)
+
+## install
+1. clone the repo
+2. open chrome://extensions
+3. enable developer mode
+4. click "load unpacked"
+5. choose the startpage-unpacked folder
